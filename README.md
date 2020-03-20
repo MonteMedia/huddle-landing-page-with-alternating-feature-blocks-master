@@ -1,6 +1,6 @@
-# Frontend Mentor - Single Price Grid Component
+# Frontend Mentor - Huddle landing page with alternating feature blocks
 
-![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -8,20 +8,11 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
-
-## The challenge
-
-Your users should be able to:
-
-- View the optimal layout for the component depending on their device's screen size
-- See a hover state on desktop for the Sign Up call-to-action
-
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+**To do this challenges, you need a basic understanding of HTML and CSS.**
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to.
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
 
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
